@@ -29,16 +29,16 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 - [x] Your app should render as a greeting (perhaps, "Good Morning") in English. 
 - [x] Beneath this greeting, there should be five buttons. 
 - [x] Each button should correspond to a different language (perhaps, "Spanish", "Haitian Creole", and "Portuguese"). 
-- [ ] When a language button is clicked, the greeting above should be translated to the appropriate language.
+- [x] When a language button is clicked, the greeting above should be translated to the appropriate language.
 - [x] Above your greeting, there should be two buttons to change the font size.
-- [ ] When the buttons are clicked, the greeting size should grow or shrink accordingly. 
-Score: 4/6
+- [x] When the buttons are clicked, the greeting size should grow or shrink accordingly. 
+Score: 6/6
 
 **React Fundamentals**
 - [x] Component names use PascalCase (`MyComponent` instead of `myComponent`)
-- [ ] Props are extracted in child components using destructuring
-- [ ] `useState` is used to manage state
-Score: 1/3
+- [x] Props are extracted in child components using destructuring
+- [x] `useState` is used to manage state
+Score: 3/3
 
 **Miscellaneous**
 - [x] Used Vite to create the project
